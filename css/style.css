@@ -273,3 +273,7 @@ h2 {
   background-color: #7e0cf5;
   opacity: 0.2;
 }
+/* .control--checkbox input:disabled:checked ~ .control__indicator {
+  background-color: #7e0cf5;
+  opacity: 0.2;
+} */
